@@ -1,0 +1,4 @@
+﻿  application.c
+C:\Users\20100\source\repos\embedded systems\APP\application.c(99,59): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\20100\source\repos\embedded systems\APP\application.c(99,59): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  embedded systems.vcxproj -> C:\Users\20100\source\repos\embedded systems\x64\Debug\embedded systems.exe
